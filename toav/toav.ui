@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>toavClass</class>
+ <widget class="QDialog" name="toavClass" >
+  <property name="objectName" >
+   <string notr="true">toavClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>toav</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="toav.qrc"/>
+ </resources>
+ <connections/>
+</UI>
